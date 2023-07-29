@@ -1,12 +1,162 @@
 [
   {
     "id": 1,
-    "content": "點擊仙人掌一下",
-    "code": "5a6202b2-f283-42f6-9cac-7c0b5dae8eb7"
+    "content": "點擊主頁LoFi或娃娃",
+    "code": "c2eacb61315f3eaf032428f95f31808e"
   },
   {
     "id": 2,
-    "content": "點擊仙人掌兩下",
-    "code": "c3f5e061-7588-426c-91b3-b9b34bfc51ef"
+    "content": "點擊主頁IG",
+    "code": "88f76d29cf4055414f4835a08a462c41"
+  },
+  {
+    "id": 3,
+    "content": "使用主頁今天吃什麼",
+    "code": "3b23937836a9296030439c6bd8436023"
+  },
+  {
+    "id": 4,
+    "content": "將主頁行事曆事件加入收藏",
+    "code": "61c03b379787acc4add65a167cab663f"
+  },
+  {
+    "id": 5,
+    "content": "點擊主頁仙人掌",
+    "code": "8480d1bfdfc10b7164a233db34e34d0b"
+  },
+  {
+    "id": 6,
+    "content": "點擊影音專區前往YouTube頻道",
+    "code": "245197056cac558d1c63b1b41bc2db88"
+  },
+  {
+    "id": 7,
+    "content": "將影音專區幸運草移出畫面",
+    "code": "db5dff06dbadf83f690d776b0f8ecd6d"
+  },
+  {
+    "id": 8,
+    "content": "點擊影音專區生活小撇步影片1-5",
+    "code": "611a5910fb733eb902524fae630cd73d"
+  },
+  {
+    "id": 9,
+    "content": "點擊影音專區科系大亂鬥影片1-10",
+    "code": "b2a0a15ca5a567efad7716223cd26b94"
+  },
+  {
+    "id": 10,
+    "content": "點擊影音專區央央微電影",
+    "code": "14fb4ff0c7b60b1e49dfa0787dab5d7e"
+  },
+  {
+    "id": 11,
+    "content": "點擊影音專區隱藏文字",
+    "code": "d0e25735b33213b27cd753e71dfeff22"
+  },
+  {
+    "id": 12,
+    "content": "點擊Blog1-56",
+    "code": "95bdd6cd3a519a9e753b496688e9b3db"
+  },
+  {
+    "id": 13,
+    "content": "點擊Blog類別1-5",
+    "code": "19593913b46909ddb9bb3b47162d6035"
+  },
+  {
+    "id": 14,
+    "content": "點擊Blog筆",
+    "code": "f1dfd6dc19f8c15130e44b3c575bee45"
+  },
+  {
+    "id": 15,
+    "content": "點擊Blog讚1-56",
+    "code": "c602ae1bdf65cce29933b92da4a8dd12"
+  },
+  {
+    "id": 16,
+    "content": "點擊Blog搜尋標籤1-12",
+    "code": "a06e9b5173359740faf927fa50991759"
+  },
+  {
+    "id": 17,
+    "content": "點擊NCULife主題1-4",
+    "code": "2163f220d6586109ebf569be50c41bb1"
+  },
+  {
+    "id": 18,
+    "content": "點擊NCULife社團或社群1-n",
+    "code": "a8dad0f33cf6c48ab59a88e6a334bec5"
+  },
+  {
+    "id": 19,
+    "content": "點擊NCULife宿舍1-4",
+    "code": "cd663d77b8d53f9c27ce66c63531b5e4"
+  },
+  {
+    "id": 20,
+    "content": "點擊NCULife安全第一",
+    "code": "bab4a43683e58a86f738476c508b8491"
+  },
+  {
+    "id": 21,
+    "content": "點擊紙膠帶",
+    "code": "f25fc84892b3db50acb3ba84edbf213f"
+  },
+  {
+    "id": 22,
+    "content": "點擊NCULife宿舍電燈開關",
+    "code": "ac6328e7a5fcb50ec079534b5ad71a44"
+  },
+  {
+    "id": 23,
+    "content": "更改個人頁面Lofi外觀",
+    "code": "c6b6a0ea9ae40008f13cdb729bf5d0db"
+  },
+  {
+    "id": 24,
+    "content": "登入個人頁面",
+    "code": "e5cbeda1021f2bf754bdc8adf1e4b80d"
+  },
+  {
+    "id": 25,
+    "content": "點擊必讀文章1-n",
+    "code": "a5205b99823493cf810e9dce87c88695"
+  },
+  {
+    "id": 26,
+    "content": "點擊地圖查看動物出沒地點",
+    "code": "e1c392a217030fdbe9d56dc76798cd51"
+  },
+  {
+    "id": 27,
+    "content": "點擊校園地圖地標1-n",
+    "code": "39b28751ebba7528692b816aeb4677af"
+  },
+  {
+    "id": 28,
+    "content": "點擊後門宵夜街店家1-n",
+    "code": "836e9a73b567ae69637f5bdaa24b793e"
+  },
+  {
+    "id": 29,
+    "content": "點擊麥當勞",
+    "code": "2a41d4e39840b707d39302c87bab3b28"
+  },
+  {
+    "id": 30,
+    "content": "點擊地圖分類1-8",
+    "code": "f2b5e7e81ba0ca718c8f078767668f83"
+  },
+  {
+    "id": 31,
+    "content": "點擊宵夜街前段兔子",
+    "code": "a7cd91ad97003f048a6598628bde44ed"
+  },
+  {
+    "id": 32,
+    "content": "點擊常用連結1-15",
+    "code": "d01afebd30e322c3742311e8af32a3a3"
   }
 ]

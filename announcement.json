@@ -1,6 +1,6 @@
 [
   {
-    "kind": "<p style='color:skyblue;'>系統測試</p>",
+    "kind": "<p style='color:blue;'>系統測試</p>",
     "date": "2023/8/17",
     "title": "個人系統目前正在進行測試中，預計 <em>12:00</em> 可正式上線",
     "url": "",
@@ -28,7 +28,7 @@
     "publisher": "影音組"
   },
   {
-    "kind": "<em style='color:red;'>必讀修正</em>",
+    "kind": "<p style='color:red;'>必讀修正</p>",
     "date": "2023/8/9",
     "title": "新增新生健檢自費費用、註冊通知修正助學計畫申請門檻",
     "url": "/mustread",
